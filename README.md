@@ -1,6 +1,7 @@
-# HealthTracker
+# Health Tracker App using Google Gemini CLI
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
+Google Gemini CLI: [Google Gemini CLI](https://github.com/rickykiet83/gemini-cli)
 
 ## Development server
 
