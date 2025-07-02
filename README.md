@@ -2,6 +2,7 @@
 
 - This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
 - Google Gemini CLI: [Google Gemini CLI](https://github.com/rickykiet83/gemini-cli)
+- You could read [full article here](https://www.linkedin.com/pulse/google-gemini-cli-mind-blowing-ai-tool-developers-kiet-pham-yxibc/)
 
 ## Development server
 
